@@ -29,7 +29,6 @@ namespace ConsoleApp1
             {
                 return false;
             }
-            
         }
 
         static void FileCreator()
